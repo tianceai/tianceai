@@ -159,3 +159,6 @@ This tool provides data analysis and market intelligence for informational purpo
 
 **Contact**: [beta@tianceai.cc](mailto:beta@tianceai.cc)
 **License**: TBA
+
+## 📅 最近更新
+- [2026-07-07] [2026-07-07 · BTC/ETH/SOL 盘口速览](blog/2026-07-07-daily-briefing.md)
