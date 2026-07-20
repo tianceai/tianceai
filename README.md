@@ -161,6 +161,7 @@ This tool provides data analysis and market intelligence for informational purpo
 **License**: TBA
 
 ## 📅 最近更新
+- [2026-07-20] [2026-07-20 · BTC/ETH/SOL 盘口速览](blog/2026-07-20-daily-briefing.md)
 - [2026-07-17] [2026-07-17 · BTC/ETH/SOL 盘口速览](blog/2026-07-17-daily-briefing.md)
 - [2026-07-16] [2026-07-16 · BTC/ETH/SOL 盘口速览](blog/2026-07-16-daily-briefing.md)
 - [2026-07-15] [2026-07-15 · BTC/ETH/SOL 盘口速览](blog/2026-07-15-daily-briefing.md)
